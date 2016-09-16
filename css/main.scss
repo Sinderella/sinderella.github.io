@@ -95,6 +95,11 @@ em {
   color: $base1;
 }
 
+html a, html a:active, html a:visited, .light a, .light a:active, .light ,
+a span {
+  color: $yellow;
+}
+
 a:hover {
   color: $base1;
 }
