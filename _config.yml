@@ -23,6 +23,11 @@ twitter_username: pastelpig
 github_username:  Sinderella
 repository: Sinderella/sinderella.github.io
 
+google_analytics: UA-47291003-2
+
 # Build settings
 markdown: kramdown
+
+highligher: rouge
+
 theme: minima
